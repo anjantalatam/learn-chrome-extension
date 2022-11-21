@@ -7,7 +7,7 @@
 
 ## Demo
 
-<video autoplay loop>
+<video autoplay loop width="100%">
   <source src="assets/hello-extensions-demo.mov"  type="video/mp4">
   Your browser does not support the video tag.
 </video>

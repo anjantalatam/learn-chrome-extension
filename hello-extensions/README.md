@@ -7,10 +7,8 @@
 
 ## Demo
 
-<video autoplay loop width="100%">
-  <source src="assets/hello-extensions-demo.mov"  type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/53368431/203116299-bcd19cab-e784-4932-a173-93ae41c36549.mov
+
 
 ## Run locally
 

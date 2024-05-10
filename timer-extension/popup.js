@@ -4,6 +4,7 @@ const timerElement = document.getElementById("timer");
 
 chrome.storage.sync.get(["name"], (res) => {
   const name = res.name ?? "???";
+  console.log(name, "name");
   nameElement.innerText = `Your name is ${name}`;
 });
 
